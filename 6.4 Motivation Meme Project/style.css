@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+.libre-baskerville-h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+/*.caveat-h1 {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+  }*/
+
+p{
+    color: white;
+    text-align: center;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+.meme{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 70px;
+}
