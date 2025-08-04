@@ -1,1 +1,5 @@
 Flexbox Layout guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Grid exercise: https://appbrewery.github.io/gridgarden/#es 
+
+Boostrap Docs: https://getbootstrap.com/docs/5.3/getting-started/introduction/ 
