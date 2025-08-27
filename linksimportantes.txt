@@ -3,3 +3,7 @@ Flexbox Layout guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 Grid exercise: https://appbrewery.github.io/gridgarden/#es 
 
 Boostrap Docs: https://getbootstrap.com/docs/5.3/getting-started/introduction/ 
+
+Adobe Color Wheel: https://color.adobe.com/es/create/color-wheel 
+
+Color Hunt: https://colorhunt.co/ 
